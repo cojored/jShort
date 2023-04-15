@@ -1,0 +1,11 @@
+print=System.out.print
+printl=System.out.println
+psv=public static void
+ps=public static
+fl=for(int i=0;i
+fs=for(int i
+
+sc=import java.util.Scanner;
+sd=Scanner scan = new Scanner(System.in);
+ni=scan.nextInt();
+nd=scan.nextDouble();
